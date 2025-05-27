@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+I am Dheeraj and i just new to github.
+look forward to my projects.
+Thank you.
 <!--
 **dheeraj-bandam/dheeraj-bandam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
