@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Dheeraj and i just new to github.
+I am Dheeraj and i am new to github.
 look forward to my projects.
 Thank you.
 <!--
